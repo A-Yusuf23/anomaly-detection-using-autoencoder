@@ -12,11 +12,10 @@ This jupyter notebook explains how one can create an Autoencoder to detect Anoma
     Pandas
     Numpy
     Matplotlib
-
 #### Dataset used
 
 The dataset used for this explanation is ECG5000 available here link. The dataset contains ECG readings. This dataset contains the labels in the first column and the rest of the columns contain the features.
-###### Framing the Problem Statement
+##### Framing the Problem Statement
 
 Here it is considered as a non time series problem where we have to detect anomalies in the dataset.
 Explanation
@@ -25,5 +24,5 @@ I have written an article explaining this at hello ML available here.
 ###### How do I use this?
 
 You can simply download the jupyter notebook and run it. Feel free to make changes and execute them to understand the concepts better.
-###### Contributions
+ Contributions
 You can make a contribution to it by making a pull request to it.
