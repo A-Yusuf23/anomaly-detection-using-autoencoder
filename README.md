@@ -19,11 +19,11 @@ The dataset used for this explanation is ECG5000 available here link. The datase
 #####Framing the Problem Statement
 
 Here it is considered as a non time series problem where we have to detect anomalies in the dataset.
-######Explanation
+Explanation
 
 I have written an article explaining this at hello ML available here.
-#######How do I use this?
+How do I use this?
 
 You can simply download the jupyter notebook and run it. Feel free to make changes and execute them to understand the concepts better.
-########Contributions
+Contributions
 You can make a contribution to it by making a pull request to it.
